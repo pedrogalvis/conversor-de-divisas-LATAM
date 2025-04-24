@@ -1,6 +1,6 @@
-# 💱 Conversor de Monedas
+# 💱 Conversor de Divisas #LATAM
 
-¡Bienvenido al **Conversor de Monedas**! 🌎💵 Este proyecto, desarrollado en **Java**, te permite convertir entre diferentes monedas de manera rápida y precisa utilizando una API de tasas de cambio. Forma parte del desafío del programa **ONE** de **Alura Latam**.
+¡Bienvenido al **Conversor de Divisas #LATAM**! 🌎💵 Este proyecto, desarrollado en **Java**, te permite convertir entre diferentes monedas de manera rápida y precisa utilizando una API de tasas de cambio. Forma parte del desafío del programa **ONE** de **Alura Latam**.
 
 ---
 
