@@ -60,6 +60,6 @@ Regístrate en [Exchange Rate API](https://www.exchangerate-api.com/) y obtén t
 Sigue estos pasos para ejecutar el conversor:
 
 1. 📥 **Clona este repositorio** en tu máquina local.  
-   ```bash
-https://pedrogalvis.github.io/conversor-de-divisas-LATAM/
+[Clone] (https://pedrogalvis.github.io/conversor-de-divisas-LATAM/) 
+
 
